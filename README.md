@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs and Django Python**
 
-- 📫 How to reach me **akilashalini1999@gmail.com**
+- 📫 Reach out to me via **akilashalini1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
