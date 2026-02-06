@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akila</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently working on **Baboolsoft**
-
 - 🌱 I’m currently learning **NextJs and Django Python**
 
 - 📫 Reach out to me via **akilashalini1999@gmail.com**
